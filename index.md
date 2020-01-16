@@ -25,3 +25,12 @@ Nel mondo della programmazione ho avuto modo di approcciarmi a diversi linguaggi
 - TypeScript
   - Angular
 
+## Links & Contact
+
+***CV: *** 
+
+***Gmail:*** **andreagiuliani.1994@gmail.com**
+
+[GitHub](https://github.com/AndreGiuliani94)
+
+[Facebook](https://it-it.facebook.com/andrea.giuliani.14268)
