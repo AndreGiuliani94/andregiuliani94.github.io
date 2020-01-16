@@ -1,7 +1,8 @@
 # Welcome to My WebSite
-
-*Mi chiamo Andrea Giuliani, sono nato il 16/12/1994 e vivo a Genova. Grazie a un corso di formazione sto provando a trasformare una mia passione in una professione: vorrei diventare un programmatore.*
-
+___
+>
+>*Mi chiamo Andrea Giuliani, sono nato il 16/12/1994 e vivo a Genova. Grazie a un corso di formazione sto >provando a trasformare una mia passione in una professione: vorrei diventare un programmatore.*
+___
 
 ## My Life
 
@@ -27,10 +28,7 @@ Nel mondo della programmazione ho avuto modo di approcciarmi a diversi linguaggi
 
 ## Links & Contact
 
-[Curriculum Vitae](CurriculumVitae.md)
-
-***Gmail:*** **andreagiuliani.1994@gmail.com**
-
-[GitHub](https://github.com/AndreGiuliani94)
-
-[Facebook](https://it-it.facebook.com/andrea.giuliani.14268)
+- [Curriculum Vitae](CurriculumVitae.md)
+- ***Gmail:*** **andreagiuliani.1994@gmail.com**
+- [GitHub](https://github.com/AndreGiuliani94)
+- [Facebook](https://it-it.facebook.com/andrea.giuliani.14268)
