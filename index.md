@@ -27,7 +27,7 @@ Nel mondo della programmazione ho avuto modo di approcciarmi a diversi linguaggi
 
 ## Links & Contact
 
-[Curriculum Vitae](https://github.com/AndreGiuliani94/andregiuliani94.github.io/blob/master/CurriculumVitae.md)
+[Curriculum Vitae](CurriculumVitae.md)
 
 ***Gmail:*** **andreagiuliani.1994@gmail.com**
 
