@@ -3,23 +3,26 @@
 
 ___
 
-## <u>ISTRUZIONE E FORMAZIONE</u>
+### <u>ISTRUZIONE E FORMAZIONE</u>
 
-### **IN CORSO:**
- #### **Corso per Tecnico Programmatore .Net e Angular**
- <ul>Presso: Axia Formazione e Consulenza</ul>
+> ### **IN CORSO:**
+> #### **Corso per Tecnico Programmatore .Net e Angular**
+> <ul>Presso: Axia Formazione e Consulenza</ul>
 
- #### **Ingegneria Meccanicaa**
- <ul>Presso: Università degli Studi di Genova</ul>
+> #### **Ingegneria Meccanicaa**
+> <ul>Presso: Università degli Studi di Genova</ul>
 
-### **FINITI:**
- #### **Diploma di scuola superiore**
- <ul>Data conseguimento: 2013</ul>
- <ul>Indirizzo: Piano Nazionale Informatica</ul>
- <ul>Luogo: Liceo Scientifico Statale Martin Luther King, Genova</ul>
+> #### **FINITI:**
+> #### **Diploma di scuola superiore**
+> <ul>Data conseguimento: 2013</ul>
+> <ul>Indirizzo: Piano Nazionale Informatica</ul>
+> <ul>Luogo: Liceo Scientifico Statale Martin Luther King, Genova</ul>
 
-## <u>CAPACITÀ E COMPETENZE PERSONALI</u>
- + Buone Capacità organizzative, gestionali, di problem-solving e di relazionarsi con i colleghi
+### <u>CAPACITÀ E COMPETENZE PERSONALI</u>
+ + Buone capacità organizzative, gestionali e di problem-solving sviluppate grazie all'esperianza lavorativa come allenatore di pallanuoto giovanile;
+ 
+ + Buona capacità di lavorare in team;
+ 
  + Conoscenza lingua:
    - Italiano: Madrelingua
    - Inglese: Buono
@@ -28,6 +31,7 @@ ___
    - Windows
 
  + Pacchetto Office
+ 
  + Linguaggi di programmazione:
    - C++
    - C#
