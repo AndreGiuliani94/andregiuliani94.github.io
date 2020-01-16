@@ -8,10 +8,10 @@ ___
 > ### **IN CORSO:**
 > #### **Corso per Tecnico Programmatore .Net e Angular**
 > <ul>Presso: Axia Formazione e Consulenza</ul>
-
+>
 > #### **Ingegneria Meccanicaa**
 > <ul>Presso: Università degli Studi di Genova</ul>
-
+>
 > #### **FINITI:**
 > #### **Diploma di scuola superiore**
 > <ul>Data conseguimento: 2013</ul>
