@@ -1,11 +1,11 @@
 # Welcome to My WebSite
 
 *Mi chiamo Andrea Giuliani, sono nato il 16/12/1994 e vivo a Genova. Grazie a un corso di formazione sto provando a trasformare una mia passione in una professione: vorrei diventare un programmatore.*
-*
 
-## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Life
+
+Sono nato a Genova il 16/12/1994 e ho frequentato il Liceo Scientifico M.L. King - indirizzo PNI (Piano Nazionale Informatico)
 
 ```markdown
 Syntax highlighted code block
