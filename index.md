@@ -5,32 +5,23 @@
 
 ## My Life
 
-Sono nato a Genova il 16/12/1994 e ho frequentato il Liceo Scientifico M.L. King - indirizzo PNI (Piano Nazionale Informatico)
+Sono nato a Genova il 16/12/1994 e ho frequentato il Liceo Scientifico M.L. King - indirizzo PNI (Piano Nazionale Informatico). Mi sono diplomato con 85/100 nel luglio 2013, successivamente mi sono iscritto all'Università di Ingegneria Meccanica, e dopo aver superato gran parte degli esami del primo anno, ho iniziato ad avere alcune difficoltà. 
+Nel settembre 2019 mi si è presentata l'opportunità di iscrivermi ad un corso professionalizzante per programmatore e, vista la mia passione per l'informatica, ho deciso di coglierla al volo, riscoprendo un mondo affascinante del quale vorrei entrare a far parte.
 
-```markdown
-Syntax highlighted code block
+A fianco dei miei studi, ho maturato una passione per lo sport della pallanuoto, che mi ha formato a livello caratteriale e mi ha insegato la determinazione e a relazionarmi con gli altri. Quando iniziai il secondo anno di università decisi di smettere di giocare per passare a fare l'allenatore, hobby che cerco di mantenere tutt'oggi.
 
-# Header 1
-## Header 2
-### Header 3
+## Developer Skills
 
-- Bulleted
-- List
+Nel mondo della programmazione ho avuto modo di approcciarmi a diversi linguaggi e framework:
+- C++
+- C#
+  - ASP.NET Core
+  - ASP.NET Core MVC
+  - EntityFramework Core
+- HTML & CSS
+- JavaScript
+- T-SQL
+  - SQL Server Express
+- TypeScript
+  - Angular
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreGiuliani94/andregiuliani94.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
