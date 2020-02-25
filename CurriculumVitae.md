@@ -39,9 +39,9 @@ ___
 >   - ASP.NET Core
 >     - ASP.NET Core MVC
 >     - EntityFramework Core
->   - HTML & CSS
->   - JavaScript
 >   - T-SQL
 >     - SQL Server Express
+>   - HTML & CSS
+>   - JavaScript
 >   - TypeScript
 >     - Angular
