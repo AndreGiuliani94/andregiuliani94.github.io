@@ -6,13 +6,14 @@ ___
 ### <u>ISTRUZIONE E FORMAZIONE</u>
 
 > #### **IN CORSO:**
-> #### **Corso per Tecnico Programmatore .Net e Angular**
-> - Presso: Axia Formazione e Consulenza
->
 > #### **Ingegneria Meccanicaa**
 > - Presso: Università degli Studi di Genova
 >
 > #### **FINITI:**
+> #### **Corso per Tecnico Programmatore .Net e Angular**
+> - Data conseguimento: 24/01/2020
+> - Presso: Axia Formazione e Consulenza
+>
 > #### **Diploma di scuola superiore**
 > - Data conseguimento: 2013
 > - Indirizzo: Piano Nazionale Informatica
@@ -35,6 +36,12 @@ ___
 > + Linguaggi di programmazione:
 >   - C++
 >   - C#
->   - T-SQL
+>   - ASP.NET Core
+>     - ASP.NET Core MVC
+>     - EntityFramework Core
+>   - HTML & CSS
 >   - JavaScript
+>   - T-SQL
+>     - SQL Server Express
 >   - TypeScript
+>     - Angular
