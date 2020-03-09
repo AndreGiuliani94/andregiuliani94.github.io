@@ -36,12 +36,13 @@ ___
 > + Linguaggi di programmazione:
 >   - C++
 >   - C#
->   - ASP.NET Core
->     - ASP.NET Core MVC
+>   - .NET Core
+>     - .NET Core MVC
 >     - EntityFramework Core
 >   - T-SQL
 >     - SQL Server Express
 >   - HTML & CSS
 >   - JavaScript
 >   - TypeScript
+>     - Angular JS
 >     - Angular
