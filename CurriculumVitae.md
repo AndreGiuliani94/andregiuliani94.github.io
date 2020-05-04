@@ -20,7 +20,7 @@ ___
 > - Luogo: Liceo Scientifico Statale Martin Luther King, Genova
 
 ### <u>CAPACITÀ E COMPETENZE PERSONALI</u>
-> + Buone capacità organizzative, gestionali e di problem-solving sviluppate grazie all'esperianza >lavorativa come allenatore di pallanuoto giovanile;
+> + Buone capacità organizzative, gestionali e di problem-solving sviluppate grazie all'esperianza lavorativa come allenatore di pallanuoto giovanile;
 > 
 > + Buona capacità di lavorare in team;
 > 
